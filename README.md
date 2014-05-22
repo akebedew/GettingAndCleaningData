@@ -24,11 +24,11 @@ The code uses files containing aggregated measurements - "X_train.txt" and "X_te
 
 ### Running the "Run_analysis.R" code
 
-The code merges the training set and test set using "X_train.txt" and "X_test.txt" datasets found in "text" directory under the 
+- The code merges the training set and test set using "X_train.txt" and "X_test.txt" datasets found in "text" directory under the 
 "UCI HAR Dataset" directory
-Then the code extracts measurements from columns containing mean and std in the name by reading the feature data set and matches with names 
+- Then the code extracts measurements from columns containing mean and std in the name by reading the feature data set and matches with names 
 containing mean and std
-The code reads the "activity_labels.txt" from the "UCI HAR Dataset" directory 
-The code appropriately label the data set with descriptive activity names
-The code combines "MergeSubjectData", "MergData2", and "MergData1" to generate a new data set that contains aggregated measurements for each activity and each subject.
-The The code then writes the file to file name tidy_data.txt to create an independent tidy data set in the current working directory.
+- The code reads the "activity_labels.txt" from the "UCI HAR Dataset" directory 
+- The code appropriately label the data set with descriptive activity names
+- The code combines "MergeSubjectData", "MergData2", and "MergData1" to generate a new data set that contains aggregated measurements for each activity and each subject.
+- The The code then writes the file to file name tidy_data.txt to create an independent tidy data set in the current working directory.
