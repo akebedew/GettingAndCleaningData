@@ -12,8 +12,7 @@ ReadMe
 
 ### Data used in the run_analysis.R code
 
-The first step for this analysis is downloading the zip file "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip" 
-provided for the project and unzip into a folder in the local directory called "project". The data needed for the project will be found
+The first step for this analysis is downloading the zip file "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip" provided for the project and unzip into a folder in the local directory called "project". The data needed for the project will be found
 in "UCI HAR Dataset". Once the data is downloaded from the original source to the local directory the R code ("Run_analysis.R") will be used
 to read the required files and produce a tidy data set which contains the mean of each combined measurement for each activity and each subject. 
 The final file ("tidy_data") contains the mean and standard deviation for each measurement.
