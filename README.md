@@ -10,7 +10,7 @@ ReadMe
 4.	Appropriately label the data set with descriptive activity names. 
 5.	Create a second, independent tidy data set with the average of each variable for each activity and each subject. 
 
-### Data used in the run_analysis.R code
+### Data used in the "run_analysis.R" code
 
 The first step for this analysis is downloading the zip file "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip" 
 provided for the project and unzip into a folder in the local directory called "project". The data needed for the project will be found

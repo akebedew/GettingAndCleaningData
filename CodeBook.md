@@ -5,7 +5,7 @@ The original full description of the study is available at the site where the da
 on the Getting and Cleaning Data project website. The address for the original sources is:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
-## Data used in the project
+## Data used for the project
 
 The data for this project can be found from the following address: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip .
 
